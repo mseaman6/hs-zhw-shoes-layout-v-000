@@ -41,3 +41,7 @@
 .first {
   margin-left: 0%;
 }
+
+.margins {
+  margin: 10px;
+}
